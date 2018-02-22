@@ -1,6 +1,6 @@
 # Digital-Signal-Processing
-##### Eight different DSP topics included
-### MATLAB Intro with code examples
+#### Eight different DSP topics included
+### MATLAB Intro with Code Examples
 ### Discrete-Time Signals and Systems
 ### Frequency-Domain Analysis Using the DFT
 ### Digital FIR Filter Design
